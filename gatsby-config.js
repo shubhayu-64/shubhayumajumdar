@@ -4,17 +4,17 @@ module.exports = {
   siteMetadata: {
     title: 'Shubhayu Majumdar',
     description:
-      'Shubhayu Majumdar is an aspiring software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Shubhayu Majumdar is an aspiring software engineer.',
     siteUrl: 'https://shubhayumajumdar.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/og.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@shubhayu64',
   },
   plugins: [
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
     {
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: '',
       },
     },
   ],
