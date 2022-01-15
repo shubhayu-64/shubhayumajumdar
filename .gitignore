@@ -5,7 +5,10 @@ yarn-error.log
 package-lock.json
 
 # Build directory
-/public
+/public/icons
+/public/page-data
+/public/slides
+/public/static
 .DS_Store
 
 .vscode/
