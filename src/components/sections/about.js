@@ -144,13 +144,12 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of studying 
-              Computer Science with AI & ML, work with a{' '}
-              <a href="https://iictmsl.in/"> student-lead 
-              technical team</a>, contribute to and build several {' '}
+              Computer Science with AI & ML, work with a student-lead 
+              technical team, contribute to and build several {' '}
               <a href="https://github.com/shubhayu-64">opensource 
               projects</a>, and {' '}
               <a href="https://medium.com/@shubhayumajumdar">report vulnerabilities</a> to many companies and 
-              startups. 
+              startups including <b>Swiggy</b>, <b>BlueLearn</b>, and more. 
             </p>
 
             <p>
