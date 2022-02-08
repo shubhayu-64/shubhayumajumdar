@@ -149,7 +149,9 @@ const About = () => {
               <a href="https://github.com/shubhayu-64">opensource 
               projects</a>, and {' '}
               <a href="https://medium.com/@shubhayumajumdar">report vulnerabilities</a> to many companies and 
-              startups including <b>Swiggy</b>, <b>BlueLearn</b>, and more. 
+              startups including {' '}
+              <a href="https://www.swiggy.com/bug-bounty-hall-of-fame">Swiggy</a>, {' '}
+              <a href="https://www.bluelearn.in/">BlueLearn</a>, and more. 
             </p>
 
             <p>
