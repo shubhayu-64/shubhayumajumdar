@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Cowin Notifier'
 cover: 'main.png'
 github: 'https://github.com/shubhayu-64/Cowin-Notifier'
