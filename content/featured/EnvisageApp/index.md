@@ -3,7 +3,7 @@ date: '2'
 title: 'Envisage'
 cover: 'main.png'
 github: ''
-external: 'https://www.amazon.com/dp/B0B14DSRJ8'
+external: 'https://www.amazon.com/dp/B0B1YKVGPH'
 cta: ''
 tech:
   - Flutter
