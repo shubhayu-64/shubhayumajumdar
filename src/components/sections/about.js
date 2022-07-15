@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Django', 'FastAPI', 'Flutter', 'Firebase', 'Google Cloud Platform','MongoDB','Pytorch'];
+  const skills = ['Python', 'Django', 'FastAPI', 'Flutter', 'Firebase', 'Google Cloud Platform', 'MongoDB', 'Pytorch'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -155,7 +155,7 @@ const About = () => {
             </p>
 
             <p>
-              My main focus these days is learning more about AI and 
+              My main focus these days is learning more about ML and 
               building some amazing projects.
             </p>
 

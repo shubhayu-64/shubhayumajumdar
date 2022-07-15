@@ -1,6 +1,6 @@
 ---
 date: '2021-11-01'
-title: 'Co-Head Technical Wing'
+title: 'Head - Technical Wing'
 company: 'IIC'
 location: 'Techno Main Saltlake, MA'
 range: 'Nov 2021 - Present'
