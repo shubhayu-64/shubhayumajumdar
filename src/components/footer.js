@@ -86,7 +86,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="/humans.txt" target="_blank">
-          <div> Developed by Shubhayu Majumdar</div>
+          <div> Developed with ❤️ by Shubhayu Majumdar</div>
         </a>
       </StyledCredit>
     </StyledFooter>

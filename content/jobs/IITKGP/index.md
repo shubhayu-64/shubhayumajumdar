@@ -1,11 +1,12 @@
 ---
 date: '2022-07-12'
-title: 'Research Intern'
+title: 'ML Research Intern'
 company: 'IIT Kharagpur'
 location: 'Kharagpur'
-range: 'Jul 2022 - Present'
+range: 'May 2022 - Aug 2022'
 url: 'http://www.iitkgp.ac.in/'
 ---
 
-- Machine Learning researcher at CSE Department. 
+- Build custom scraper, build dataset of Instagram user data.
+- Build Two-Branch Neural Network to take mixed data of images and numerical data.
 <!-- - Communicate with multi-disciplinary teams of engineers, designers, and clients on a daily basis -->
