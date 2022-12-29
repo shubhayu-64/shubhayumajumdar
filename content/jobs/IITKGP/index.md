@@ -3,7 +3,7 @@ date: '2022-07-12'
 title: 'ML Research Intern'
 company: 'IIT Kharagpur'
 location: 'Kharagpur'
-range: 'May 2022 - Aug 2022'
+range: 'May 2022 - August 2022'
 url: 'http://www.iitkgp.ac.in/'
 ---
 

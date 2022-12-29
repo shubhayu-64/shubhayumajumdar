@@ -1,9 +1,9 @@
 ---
 date: '2021-05-01'
-title: 'Backend Engineer'
+title: 'Backend Developer'
 company: 'IIC'
 location: 'Techno Main Saltlake, Kolkata'
-range: 'July - Nov 2021'
+range: 'July - November 2021'
 url: 'https://iictmsl.in/'
 ---
 

@@ -3,7 +3,7 @@ date: '2021-11-01'
 title: 'Head - Technical Wing'
 company: 'IIC'
 location: 'Techno Main Saltlake, MA'
-range: 'Nov 2021 - Present'
+range: 'November 2021 - August 2022 '
 url: 'https://iictmsl.in/'
 ---
 
