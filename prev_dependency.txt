@@ -59,3 +59,6 @@
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
     "styled-components": "^5.3.0"
+
+
+// "gatsby-transformer-remark": "^5.5.1",
